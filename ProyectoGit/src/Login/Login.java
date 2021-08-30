@@ -24,7 +24,7 @@ public class Login extends JFrame {
     public JTextField txtusuario;
     public JPasswordField jpass;
     public JButton btnenviar;
-    public String imagen = "C:\\Users\\rober\\OneDrive\\Documentos\\NetBeansProjects\\ProyectoGit\\src\\Imagenes\\fondo.jpg";
+    public String imagen = "Aqui la ruta de tu imagen";
 
     public Login() {
         contenedor = this.getContentPane();
